@@ -1,4 +1,4 @@
-package com.example.soundway
+package com.example.soundway.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
